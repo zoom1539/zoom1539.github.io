@@ -1,5 +1,5 @@
 ---
-title: "Data Representation - Integer"
+title: "Data Representation0 - Integer"
 subtitle: "「数据表示」整数"
 layout: post
 author: "Hux"
